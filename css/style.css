@@ -1,4 +1,12 @@
 .hero {
+    background-color: rgb(230, 230, 230);
+}
+
+.profilepic {
     width: 200px;
     height: 200px;
+}
+
+.floatleft {
+    float: left;
 }
