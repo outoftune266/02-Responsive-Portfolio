@@ -29,6 +29,18 @@ footer {
 }
 
 .bug {
-    width: 26px;
-    height: 26px;
+    width: 30px;
+    height: 30px;
+}
+
+.link {
+    line-height: 50px;
+}
+
+.link h1 {
+    margin-top: 10px;
+}
+
+.link li {
+    font-size: 26px;
 }
