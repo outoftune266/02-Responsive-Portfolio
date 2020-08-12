@@ -2,10 +2,16 @@
     font-size: 20px;
 }
 
+body {
+    background-image: url("../images/pexels-lorenzo-242236.jpg");
+    background-position: fixed;
+}
+
+
 footer {
     text-align: center;
     font-size: 16px;
-    background-color: #f8f9fa;
+    background-color: #f8f9fa00;
 }
 
 .hero {
