@@ -38,8 +38,10 @@ footer {
 
 .link h1 {
     margin-top: 10px;
+    padding: 5px;
 }
 
 .link li {
-    font-size: 26px;
+    font-size: 24px;
+    padding: 5px;
 }
