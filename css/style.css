@@ -7,6 +7,10 @@ body {
     background-position: fixed;
 }
 
+h1 {
+    margin-top: 10px;
+}
+
 
 footer {
     text-align: center;
